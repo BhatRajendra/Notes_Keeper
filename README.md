@@ -7,6 +7,7 @@ All the data is stored in an arrray of objects( which you will lose if you refre
 
 ***
 To recreate the website to your local device
+- first make sure you lates version **node** and **npm** installed
 - clone the repo
 - cd into the directory and run **npm install**
 - after installing all the node modules, run **npm start**
